@@ -17,7 +17,7 @@
 
 <table>
   <tr>
-    <th colspan="4" align="left">Programming Languages</th>
+    <th colspan="5" align="left">Programming Languages</th>
   </tr>
   <tr>
     <td align="center"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/></a></td>
@@ -38,7 +38,7 @@
   </tr>
 
   <tr>
-    <th colspan="4" align="left">Backend Development</th>
+    <th colspan="5" align="left">Backend Development</th>
   </tr>
   <tr>
     <td align="center"><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></a></td>
@@ -46,7 +46,7 @@
   </tr>
 
   <tr>
-    <th colspan="4" align="left">Databases</th>
+    <th colspan="5" align="left">Databases</th>
   </tr>
   <tr>
     <td align="center"><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/></a></td>
@@ -54,7 +54,7 @@
   </tr>
 
   <tr>
-    <th colspan="4" align="left">Mobile Development</th>
+    <th colspan="5" align="left">Mobile Development</th>
   </tr>
   <tr>
     <td align="center"><a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/></a></td>
@@ -62,7 +62,7 @@
   </tr>
 
   <tr>
-    <th colspan="4" align="left">DevOps & Testing</th>
+    <th colspan="5" align="left">DevOps & Testing</th>
   </tr>
   <tr>
     <td align="center"><a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="50" height="50"/></a></td>
@@ -71,7 +71,7 @@
   </tr>
 
   <tr>
-    <th colspan="4" align="left">Cloud & Services</th>
+    <th colspan="5" align="left">Cloud & Services</th>
   </tr>
   <tr>
     <td align="center"><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/></a></td>
@@ -79,7 +79,7 @@
   </tr>
 
   <tr>
-    <th colspan="4" align="left">Design & 3D Modeling</th>
+    <th colspan="5" align="left">Design & 3D Modeling</th>
   </tr>
   <tr>
     <td align="center"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/></a></td>
@@ -88,14 +88,14 @@
   </tr>
 
   <tr>
-    <th colspan="4" align="left">Game Development</th>
+    <th colspan="5" align="left">Game Development</th>
   </tr>
   <tr>
     <td align="center"><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="50"/></a></td>
   </tr>
 
   <tr>
-    <th colspan="4" align="left">Version Control</th>
+    <th colspan="5" align="left">Version Control</th>
   </tr>
   <tr>
     <td align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a></td>
