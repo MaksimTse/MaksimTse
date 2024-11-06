@@ -10,7 +10,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-# maksimtsepelevits@gmail.com
+<h2 align="left"> maksimtsepelevits@gmail.com </h2>
 
 <h3 align="left">Languages and Tools:</h3>
 
