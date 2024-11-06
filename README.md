@@ -17,7 +17,7 @@
 
 <table>
   <tr>
-    <th colspan="5" align="left">Programming Languages</th>
+    <th colspan="6" align="left">Programming Languages</th>
   </tr>
   <tr>
     <td align="center"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/></a></td>
@@ -27,7 +27,7 @@
   </tr>
 
   <tr>
-    <th colspan="5" align="left">Frontend Development</th>
+    <th colspan="6" align="left">Frontend Development</th>
   </tr>
   <tr>
     <td align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a></td>
@@ -35,7 +35,8 @@
     <td align="center"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/></a></td>
     <td align="center"><a href="https://svelte.dev" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="50" height="50"/></a></td>
     <td align="center"><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/></a></td>
-  </tr>
+    <td align="center"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/></a></td>
+</tr>
 
   <tr>
     <th colspan="5" align="left">Backend Development</th>
