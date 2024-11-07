@@ -9,8 +9,8 @@
 </p>
 
 
-<h3 align="left">Connect with me:</h3>
-<h4 align="left"> maksimtsepelevits@gmail.com </h4>
+<h2 align="left">Connect with me:</h2>
+<h3 align="left"> maksimtsepelevits@gmail.com </h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
