@@ -12,7 +12,7 @@
 <h2 align="left">Connect with me:</h2>
 <h3 align="left"> maksimtsepelevits@gmail.com </h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 
 <table>
   <tr>
